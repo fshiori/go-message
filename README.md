@@ -1,5 +1,5 @@
 # go-message
-A wrapper for message.net.tw's API written in Go
+A wrapper for www.message.com.tw's API written in Go
 
 ## Example
 
